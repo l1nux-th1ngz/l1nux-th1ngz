@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @l1nux-th1ngz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... I'll give you 1 guess
+- 🌱 I’m currently learning ... Stoping my life from being sold online 
+- 💞️ I’m looking to collaborate on ... Who knows
+- 📫 How to reach me ... Here i guess
 
 <!---
-l1nux-th1ngz/l1nux-th1ngz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
